@@ -1,0 +1,87 @@
+body {
+	width: 75%;
+	max-width: 650px;
+	margin: 0 auto;
+	background-color: gray;
+	font-size: 90%;
+	
+}
+p{
+	background-color: aliceblue
+}
+#h1{
+	background-color:gray
+}
+.names-color {
+color:cyan
+}
+header,
+main,
+footer {
+	background-color: tan
+	font-size: 1.6em;
+}
+
+header {
+	padding: 1.875em 0;
+}
+
+header h1 {
+	text-align: center;
+}
+
+h1, h2, h3 {
+	margin: 0;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+main h2 {
+    padding: 75;
+}
+
+section {
+	margin: 1.875em 0;
+}
+
+nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+	font-size: 0.75em;
+}
+
+p {
+	padding: 1.25em;
+}
+
+figure {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+figcaption {
+	font-style: italic;
+}
+
+footer {
+	text-align: center;
+	padding: 3em;
+}
+
+footer p {
+	display: inline-block;
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
+}
+
